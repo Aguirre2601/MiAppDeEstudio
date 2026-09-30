@@ -1,0 +1,6 @@
+# Credenciales y configuración local
+appsettings.json
+
+# Build
+bin/
+obj/
